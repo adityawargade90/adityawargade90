@@ -56,9 +56,6 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Aditya Wargade
-
-### 💻 Computer Engineering Student • AI & Full-Stack Developer • Problem Solver
 
 <p>
   <a href="https://github.com/adityawargade90">
