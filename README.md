@@ -1,115 +1,67 @@
 <div align="center">
 
-<div align="center">
-
-```text
-@@@@@@@@@@@@@@@@@@@@@@*+=+-.:=-.......     -+*****++++++++++++++=:.
-..::--==+*#%@@@@@@@*+=-:.                    --+++========++++++++==+++***+-.
-.  ......:-=+++++==-::..                       . :*@@@@@@@@@@@@@@@@@@@@@@@@%-
-.........:=+**=-:::. .                            +@@@@@@@@@@@@@%%##***++==:.
-:::::::::-+*##+  ..                               .*######******+=:.......
-----=----*%@@@# .                                  :#%%%%%%%%%@@%#=::::::.....
-=========*%@@@*                                     :-+**+=========------::...
-===++++=+*%%%%*           .---------===--:-=:.      =%@@@#-     .:-==--=--::..
-+=+++++++==---==:    .:-=+**###%%%%%#+=-===+*=     :*%@@#-.     .:=======-::::
-++++**+++*#%%%%%%.  +*==-::.:=*#%%#+=:.----=+#+    ---++=====--==========--:::
-++++**+++#@@@@@@@= -#*---=-...:+#%#=:....:--+*#- .*#+*#%@@%%%%%%#*+====+=----:
-++++**+++#%@@@@@@* =@*-.....:-=*%%%#*=----:-+*#+ -+=*#%@@@@@%%@@%#+====+==----
-++++**+++#%@@@@@#* =@*+===++**#%@@@@%%%%%%%%%###-+#-*#%@@@@@%%@@%#+=-==++=----
-++++**+++#%@@@@%-*=*@%%%@@@@%%%#%%%#*#%@@@@@@%##*=++*#%@@@@@@@@@%#+---=++=----
-++++**+++#%@@@@%+%*#%%%@@@@@##=:-===-+##%%@@%%#***++##%@@@@@@@@@%#+---=++=----
-++=+**+++#%@@@@@***#%%%%%%%#***++++++**++*###***+***##%@@@@@@@@@%#+---=++=----
-++=+**+++#%@@@@@@***######*--==+***#*+=:.+#*******#%##%@@@@@@@@@%#=---=++=----
-+==+**+++#%@@@@@@@%#*******=-:+%%@@@@%*=++******@@@%###@@@@@@@@@%*=---=+==----
-+==+**+++*#%@@@@@@@%%#****+*##*++++++*#%#*+++*+#%%%#**#%%%%%%%%%#*=---=+==----
-+==+**++++++++#%@@@@@@#++++**###****#%%%#*+===+#%%%*=--====--=+***=---=+==----
-+==+*++++=-. .+#%@@@%%%#===+*#%%%%%%#%#*+=-:-=*#@@%#=:....   .-=++----===-----
-+==+++++++-. .=*#%#####%#=-::-:::::.:....:-=+***%%%#+:...  ..:-=------====----
-+==+++++++-.   .:::--=+##++=-:.      ..:-=+*####*%===:....:::-----==---==----:
-+==++++++=:         .:==****+++===--=+***#######+@* ..-*#%%#####%%%*=.
-===++++++=:         .:--%+*****++***####*######++@@  .-*@@@@@@@@@@%*:
-===++++++=:        .--::@++***++==+*******###*+=@@@    ...-=*#%%%%#+.
-====+++++=:    ..  :-:..@@+=+**+++==+*#####**+-%@@#           .:-=+=.      .
-:--=++++++=-::.   .::.. #@@*-=++=++********+=-#@@@=                 ...  .::.
- .-++++==-:.     .....  =@@@%--===-====+**+=-*@@@@:                       ....
-.:---::..          .    .@@*%@*========+++==#@*#@@.
-:...                     %###%@@#+++++++*+=#@#**#%.
-                         +%@@@@@@@###*****@@@@@@%+
-                         =@@@@@@@@@@#***#@@@@@@@@=
-                         :@@@@@@@@@@@%+#@@@@@@@@@-
-                          %@@@@@@@@@@@@@@@@@@@@@%.
-                          *@@@@@@@@@@@@@@@@@@@@@#
-                          -@@@@@@@@@@@@@@@@@@@@@*
-                          .@@@@@@@@@@@@@@@@@@@@@=
-                           #@@@@@@@@@@@@@@@@@@@@-
-                           =@@@@@@@@@@@@@@@@@@@%.
-```
-
-# 👋 Hi, I'm Aditya Wargade
-
-### 💻 Computer Engineering Student • AI & Full-Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=140&section=header" width="100%"/>
 
 </div>
 
+<table>
+<tr>
+<td width="30%" valign="middle" align="center">
 
-</div>
+<img src="https://github.com/adityawargade90.png" width="220" style="border-radius:50%;" alt="Aditya Wargade"/>
 
-<div align="center">
+<br/>
+
+<a href="https://github.com/adityawargade90">
+<img src="https://img.shields.io/badge/GitHub-adityawargade90-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</td>
+<td width="70%" valign="middle">
 
 # 👋 Hi, I'm Aditya Wargade
 
 ### 💻 Computer Engineering Student • AI & Full-Stack Developer • Problem Solver
 
-<p>
-  <a href="https://github.com/adityawargade90">
-    <img src="https://img.shields.io/badge/GitHub-adityawargade90-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+I'm a Computer Engineering student passionate about **software development, artificial intelligence, accessibility technology, embedded systems, and problem solving.** I like building real, working products — from AI-powered platforms to IoT safety systems — and I learn best by shipping projects, breaking them, and fixing what breaks.
 
 **Building accessible technology, learning every day, and turning ideas into working products.**
 
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a Computer Engineering student passionate about **software development, artificial intelligence, accessibility technology, embedded systems, and problem solving**.
-
 - 🎓 Computer Engineering student
 - 🤖 Interested in **AI, ML, Full-Stack Development & Embedded Systems**
-- ♿ Interested in building technology with a strong focus on **accessibility**
-- 🧠 Currently strengthening my **DSA, SQL, Embedded C and software-development fundamentals**
-- 🔨 Enjoy building practical projects and hackathon prototypes
-- 🌱 Always learning and experimenting with new technologies
+- ♿ Focused on building technology around **accessibility**
+- 🧠 Currently strengthening **DSA, SQL, Embedded C** and core software-development fundamentals
+- 🔨 Enjoy building hackathon prototypes and practical, deployable projects
+- 🌱 Always learning and experimenting with new tools and frameworks
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
 </p>
 
 ### 🌐 Web Development
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </p>
 
 ### 🗄️ Database & Cloud
-
 <p>
 <img src="https://skillicons.dev/icons?i=firebase,mongodb,supabase,git,github,vercel" />
 </p>
 
 ### 🤖 AI / ML / Computer Vision
-
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,python" />
 </p>
@@ -120,49 +72,31 @@ I'm a Computer Engineering student passionate about **software development, arti
 
 # 🌟 Featured Projects
 
-## ♿ DivyangConnect AI
+## 🎓 EduSetu — Smart Education AI *(formerly DivyangConnect AI)*
 
-An accessibility-focused platform designed to bring important services and information for persons with disabilities into one place.
+**"One Student. One Identity. One Lifelong Learning & Career Journey."**
 
-### Key Features
+An AI-powered smart education ecosystem built for **SIH 2026** (Problem Statement 26205 — Smart Education, Student Innovation category). EduSetu grew out of my earlier accessibility platform, DivyangConnect AI — those original PWD-focused features (government schemes, scholarships, UDID info, gesture and sign-language interaction, multilingual support, AI assistant) now live on as **EduAccess**, the dedicated accessibility layer inside EduSetu.
 
-- 📋 Government schemes & scholarships
-- 💼 Jobs & education opportunities
-- 🪪 UDID-related information
-- 🤖 AI chatbot
-- 🌐 Multilingual support
-- 🤟 Hand-gesture interaction
-- ♿ Accessibility-focused interface
+### Key Modules
+- 🪪 **EduID** — unified student identity
+- 🧠 **EduMind** — AI-powered learning assistance
+- 📉 **EduGap** — learning-gap detection
+- 💼 **EduCareer** — career guidance and opportunities
+- 🗺️ **EduRoadmap** — personalized learning paths
+- 🧑‍🏫 **EduMentor** — mentorship support
+- 🔐 **EduVault** — secure academic records
+- ♿ **EduAccess** — accessibility layer (schemes, scholarships, jobs, gesture & sign-language interaction, multilingual support, AI chatbot)
 
-**Tech Stack:** React • Firebase • Firestore • Express • JWT • NVIDIA NIM • Meta Llama • MediaPipe
-
----
-
-## 🎓 EduSetu — Smart Education AI
-
-An AI-powered smart education platform focused on personalized and accessible learning.
-
-### Highlights
-
-- 🪪 EduID
-- 📚 Personalized learning
-- 🧠 AI learning assistance
-- ♿ Accessibility controls
-- 🤟 Gesture-based interaction
-- 🌐 Multilingual learning support
-- 📈 Learning progress & recommendations
-
-**Tech Stack:** React • TypeScript • Firebase • Firestore • NVIDIA NIM • Meta Llama • MediaPipe
+**Tech Stack:** React 18 • TypeScript • Node.js + Express • Firebase Firestore • Firebase Auth + JWT • Meta Llama 4 Maverick via NVIDIA NIM • MediaPipe Hands • TensorFlow/Keras • Vercel
 
 ---
 
 ## ⛏️ Coal Mining Monitoring System
 
-An IoT-oriented safety monitoring project using sensors and microcontrollers to monitor environmental and safety conditions.
+An IoT-oriented safety monitoring project using sensors and microcontrollers to track environmental and safety conditions in mining environments.
 
-**Components explored:**
-
-`Arduino` `ESP32` `ESP8266` `MQ2` `DHT11` `LM35` `Flame Sensor` `Relay` `Buzzer` `LCD` `HC-12`
+**Components explored:** `Arduino` `ESP32` `ESP8266` `MQ2` `DHT11` `LM35` `Flame Sensor` `Relay` `Buzzer` `LCD` `HC-12`
 
 ---
 
@@ -196,7 +130,6 @@ I believe the best way to learn technology is by building real projects, underst
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=adityawargade90&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityawargade90&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/>
@@ -210,12 +143,12 @@ I believe the best way to learn technology is by building real projects, underst
 # 🎯 Current Focus
 
 ```text
-DSA                    ███████░░░
-SQL & DBMS             ████████░░
-Embedded C             ██████░░░░
+DSA                     ███████░░░
+SQL & DBMS              ████████░░
+Embedded C              ██████░░░░
 Artificial Intelligence ██████░░░░
-Full-Stack Development ████████░░
-Accessibility Tech     █████████░
+Full-Stack Development  ████████░░
+Accessibility Tech      █████████░
 ```
 
 ---
@@ -225,7 +158,6 @@ Accessibility Tech     █████████░
 <div align="center">
 
 Interested in **AI, accessibility, software development, embedded systems, or building practical projects?**
-
 Let's connect and build something useful. 🚀
 
 <br>
